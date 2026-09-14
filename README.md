@@ -573,7 +573,8 @@ Make your changes, test them, and submit a pull request.
 # 🧪 Future Testing Strategy
 
 A production-oriented version should include automated tests for:
-
+Software engineer | cyber security | coder |
+decoding architectures
 ```text
 Feed parsing
 URL normalization
@@ -674,4 +675,4 @@ https://github.com/mohitsharma099999-tech/WORLD-NEWS
 
 ### 🌍 One pipeline. Hundreds of sources. Worldwide news.
 
-**WORLD-NEWS — Global News Aggregation & Intelligence Infrastructure.**https://github.com/mohitsharma099999-tech/WORLD-NEWS/edit/main/README.md
+**WORLD-NEWS — Global News Aggregation & Intelligence Infrastructure.**
