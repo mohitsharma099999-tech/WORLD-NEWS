@@ -28,7 +28,7 @@ Instead of manually visiting dozens of websites, users can query:
 * 🌐 News across multiple countries simultaneously
 
 ---
-https://github.com/mohitsharma099999-tech/WORLD-NEWS/edit/main/README.md
+
 ## ✨ Key Features
 
 ### 🌍 Global Coverage
