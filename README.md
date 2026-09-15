@@ -7,6 +7,8 @@
 > **800+ RSS feeds · 80+ countries · 100+ languages · Country filtering · Language filtering · Global aggregation**
 
 The project provides a lightweight alternative to heavyweight news APIs by directly consuming publicly available RSS feeds from news publishers.
+    sting.
+
 
 ---
 
@@ -241,7 +243,7 @@ BBC
 The Guardian
 The Independent
 Sky News
-Financial Timeshttps://github.com/mohitsharma099999-tech/WORLD-NEWS/edit/main/README.md
+Financial Times
 The Telegraph
 Daily Mail
 Metro
